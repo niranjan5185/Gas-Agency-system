@@ -1,0 +1,72 @@
+Content for the Career Guidance Project
+Project Title: Career Guidance
+Problem Statement
+The Career Guidance web application is designed to help students and parents find detailed information about institutions, including tuition fees, eligibility criteria, placement options, housing facilities, and more. It supports students in choosing engineering and management universities in India and abroad by generating a personalized college list based on entrance exam results and eligibility criteria. Students can also narrow their options based on ranking, fee constraints, and location preferences. The system incorporates an aptitude test to assess students’ suitability and provide tailored recommendations.
+
+Technologies Used
+Frontend: HTML, CSS, JavaScript
+Backend: Firebase (Authentication, Database, and Hosting)
+Domain
+Education Technology
+
+Features and Modules
+Admin Login:
+
+Controlled by the administrator to manage colleges and student data.
+Admin can add, update, or remove colleges.
+Student Login:
+
+Students can register and log in to explore institutions.
+Input details such as scores, preferences, and academic history.
+College List and Selection:
+
+Displays a list of colleges based on student preferences and eligibility.
+Students can filter options based on rankings, fees, and location.
+Aptitude Test Module:
+
+A test with verbal, quantitative, and general knowledge sections to evaluate students.
+Provides a personalized score to recommend suitable colleges and courses.
+Location Selection:
+
+Students can choose between studying in India or abroad.
+College Registration:
+
+Displays steps and prerequisites for registering at a selected college.
+Test Completion:
+
+Students receive their scores upon completing the aptitude test.
+Notifications:
+
+The system notifies students about important updates and test results.
+Project Goals
+Simplify the college selection process for students.
+Provide accurate and detailed guidance based on individual preferences and eligibility.
+Ensure an interactive and user-friendly platform for education-related decisions.
+Project Evaluation Metrics
+Code Quality:
+
+Modular, testable, maintainable, and portable.
+Database:
+
+Secure and optimized Firebase Firestore structure for storing user and college data.
+Logging:
+
+Comprehensive logging for user actions using JavaScript logging libraries.
+Deployment:
+
+Hosted on Firebase for seamless and reliable access.
+Optimization:
+
+Focus on code-level and architecture-level improvements.
+Workflow
+User Registration: Students create an account and log in to access the application.
+College Search: Students input their preferences to generate a list of colleges.
+Aptitude Test: Students take the test to receive personalized recommendations.
+College Selection: Students choose a college and register through the system.
+Submission Requirements
+Project Code:
+
+Submit a GitHub repository with a detailed README file explaining the workflow and system setup.
+Detailed Report:
+
+Submit a document with system architecture, LLD (Low-Level Design), test cases, and deployment details.
